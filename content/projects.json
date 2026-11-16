@@ -1,0 +1,202 @@
+[
+  {
+    "slug": "colony-counting",
+    "title": "Automated bacterial colony counting in macro-images",
+    "short": "Colony counting (MSc thesis)",
+    "summary": "My MSc thesis: enhancing plate photographs and training a detector on synthetic plates so colonies can be counted without hand-labelling thousands of images.",
+    "status": "active",
+    "year": "2025 to 2026",
+    "themes": [
+      "Computer vision for microbial analysis",
+      "Machine learning for biological systems"
+    ],
+    "methods": [
+      "Object detection",
+      "Synthetic data",
+      "Image enhancement"
+    ],
+    "tech": [
+      "PyTorch",
+      "YOLOv8",
+      "OpenCV",
+      "Segment Anything",
+      "LaMa"
+    ],
+    "glyph": "plate",
+    "repo": ""
+  },
+  {
+    "slug": "colony-image-translation",
+    "title": "Synthetic-to-real colony image translation with CycleGAN",
+    "short": "CycleGAN image translation",
+    "summary": "Can a GAN make synthetic plates look real enough to train a better detector? I trained one on a memory-starved GPU server and report a negative result.",
+    "status": "complete",
+    "year": "2026",
+    "themes": [
+      "Computer vision for microbial analysis"
+    ],
+    "methods": [
+      "Generative models",
+      "Domain adaptation",
+      "Synthetic data"
+    ],
+    "tech": [
+      "PyTorch",
+      "CycleGAN",
+      "Weights & Biases"
+    ],
+    "glyph": "translate",
+    "repo": ""
+  },
+  {
+    "slug": "fermentation-kinetics",
+    "title": "Fermentation kinetics of clavulanic acid production",
+    "short": "Fermentation kinetics",
+    "summary": "A tested Python package that fits logistic growth and Luedeking-Piret product kinetics to my BSc thesis data and asks when each Streptomyces clavuligerus strain makes its product.",
+    "status": "complete",
+    "year": "2026",
+    "themes": [
+      "Bioprocess modelling"
+    ],
+    "methods": [
+      "Mechanistic ODE models",
+      "Nonlinear curve fitting"
+    ],
+    "tech": [
+      "Python",
+      "SciPy",
+      "NumPy",
+      "Matplotlib",
+      "pytest"
+    ],
+    "glyph": "curve",
+    "repo": "ca-fermentation-kinetics"
+  },
+  {
+    "slug": "ann-fermentation-optimisation",
+    "title": "Neural-network optimisation of fermentation conditions",
+    "short": "ANN fermentation optimisation",
+    "summary": "Reproducing a published ANN pipeline for fermentation optimisation in Python, including the data-splitting failure that taught me the most.",
+    "status": "active",
+    "year": "2026",
+    "themes": [
+      "Bioprocess modelling",
+      "Machine learning for biological systems"
+    ],
+    "methods": [
+      "Neural networks",
+      "Sensitivity analysis"
+    ],
+    "tech": [
+      "Python",
+      "scikit-learn",
+      "pandas"
+    ],
+    "glyph": "network",
+    "repo": ""
+  },
+  {
+    "slug": "openfungi-benchmark",
+    "title": "Does pretraining explain the gap? A ResNet50 ablation on OpenFungi",
+    "short": "OpenFungi ResNet50 ablation",
+    "summary": "A controlled comparison of a randomly initialised and an ImageNet-pretrained ResNet50 on fungal colony images, with three seeds and a paired test.",
+    "status": "active",
+    "year": "2026",
+    "themes": [
+      "Computer vision for microbial analysis",
+      "Machine learning for biological systems"
+    ],
+    "methods": [
+      "Transfer learning"
+    ],
+    "tech": [
+      "PyTorch",
+      "torchvision",
+      "Weights & Biases"
+    ],
+    "glyph": "bars",
+    "repo": ""
+  },
+  {
+    "slug": "amr-graph-networks",
+    "title": "Predicting antimicrobial activity with graph neural networks",
+    "short": "Antimicrobial activity GNN",
+    "summary": "Graph isomorphism networks trained on ChEMBL bioactivity data, evaluated with scaffold splitting so the model is tested on chemistry it has not seen.",
+    "status": "complete",
+    "year": "2026",
+    "themes": [
+      "Machine learning for biological systems",
+      "Computational biology"
+    ],
+    "methods": [
+      "Graph neural networks"
+    ],
+    "tech": [
+      "Python",
+      "PyTorch",
+      "ChEMBL"
+    ],
+    "glyph": "molecule",
+    "repo": ""
+  },
+  {
+    "slug": "bioprocesskit",
+    "title": "BioprocessKit: a Python toolkit for everyday bioprocess analysis",
+    "short": "BioprocessKit",
+    "summary": "One toolkit and web app for the analyses every fermentation lab repeats: kinetics fitting, growth curves, design of experiments and batch analytics.",
+    "status": "active",
+    "year": "2026 onwards",
+    "themes": [
+      "Bioprocess modelling"
+    ],
+    "methods": [
+      "Mechanistic ODE models",
+      "Nonlinear curve fitting",
+      "Design of experiments"
+    ],
+    "tech": [
+      "Python"
+    ],
+    "glyph": "kit",
+    "repo": ""
+  },
+  {
+    "slug": "genotype-phenotype-maps",
+    "title": "Genotype-phenotype maps under environmental change",
+    "short": "Genotype-phenotype maps",
+    "summary": "My research traineeship project in Nora Martin's group at the Centre for Genomic Regulation, Barcelona, starting January 2027.",
+    "status": "planned",
+    "year": "2027",
+    "themes": [
+      "Computational biology"
+    ],
+    "methods": [],
+    "tech": [],
+    "glyph": "network",
+    "repo": ""
+  },
+  {
+    "slug": "fermentation-digital-twin",
+    "title": "Towards a hybrid digital twin of microbial fermentation",
+    "short": "Hybrid fermentation digital twin",
+    "summary": "The research direction I want to pursue in a PhD: mechanistic kinetics where the biology is understood, machine learning where it is not.",
+    "status": "planned",
+    "year": "",
+    "themes": [
+      "Bioprocess modelling",
+      "Machine learning for biological systems"
+    ],
+    "methods": [
+      "Mechanistic ODE models",
+      "Neural networks",
+      "Hybrid modelling"
+    ],
+    "tech": [
+      "Python",
+      "PyTorch",
+      "SciPy"
+    ],
+    "glyph": "twin",
+    "repo": ""
+  }
+]

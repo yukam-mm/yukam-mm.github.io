@@ -1,0 +1,65 @@
+[
+  {
+    "when": "2020 to 2024",
+    "kind": "edu",
+    "title": "BSc Biotechnology Engineering",
+    "place": "University of Food Technologies, Plovdiv, Bulgaria",
+    "detail": "Thesis on the biosynthesis of clavulanic acid by Streptomyces clavuligerus. The plate images behind my MSc thesis were generated during this project. Rector's Award for Outstanding Academic Performance."
+  },
+  {
+    "when": "2021",
+    "kind": "lab",
+    "title": "Summer intern, fermentation manufacturing",
+    "place": "Biovet AD",
+    "detail": ""
+  },
+  {
+    "when": "2022 to 2023",
+    "kind": "edu",
+    "title": "Exchange semesters",
+    "place": "University of Milan and University of Padua, Italy",
+    "detail": "Protein engineering, proteomics and applied biocatalysis in Milan; hands-on DNA, RNA and protein analysis and genomics in Padua."
+  },
+  {
+    "when": "2023 to 2024",
+    "kind": "lab",
+    "title": "Research intern, industrial microbiology",
+    "place": "Alpharma EOOD",
+    "detail": "Production of bioactive substances with Streptomyces."
+  },
+  {
+    "when": "2024 to 2025",
+    "kind": "lab",
+    "title": "R&D assistant",
+    "place": "Healthy Bars OOD, Sofia",
+    "detail": "Formulation experiments, instrumental characterisation and production scale-up."
+  },
+  {
+    "when": "2025 to now",
+    "kind": "edu",
+    "title": "MSc Computer Science and Engineering",
+    "place": "Technical University of Sofia",
+    "detail": "Thesis on image enhancement and deep-learning-based colony counting in macro-images, supervised by Prof. Milena Lazarova."
+  },
+  {
+    "when": "2025 to 2026",
+    "kind": "lab",
+    "title": "Research assistant, part-time",
+    "place": "Inobiotech LTD, Sofia",
+    "detail": "Phyto- and natural-pharma R&D; organising analytical data for traceability."
+  },
+  {
+    "when": "2026",
+    "kind": "code",
+    "title": "First paper and three Erasmus+ intensive programmes",
+    "place": "COMSCI 2026, Sozopol; Vitoria-Gasteiz, Ostrava and Bucharest",
+    "detail": "Presented my colony image enhancement work, and took first place in the ASTRA 2026 final project competition."
+  },
+  {
+    "when": "From Jan 2027",
+    "kind": "next",
+    "title": "Research trainee",
+    "place": "Nora Martin's group, Centre for Genomic Regulation, Barcelona",
+    "detail": "How environmental change reshapes a genotype-phenotype map."
+  }
+]

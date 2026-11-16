@@ -1,0 +1,29 @@
+[
+  {
+    "authors": "Munkhbat, O., Lazarova, M.",
+    "title": "Image Enhancement for Microbial Colony Analysis in Petri Dish Images",
+    "venue": "14th International Scientific Conference Computer Science (COMSCI 2026), Sozopol, Bulgaria",
+    "year": "2026",
+    "status": "presented",
+    "note": "Accepted and presented orally, September 2026",
+    "url": ""
+  },
+  {
+    "authors": "Munkhbat, O., Lazarova, M.",
+    "title": "Image Enhancement for Microbial Colony Analysis in Petri Dish Images (extended version)",
+    "venue": "MDPI Engineering Proceedings",
+    "year": "2026",
+    "status": "review",
+    "note": "",
+    "url": ""
+  },
+  {
+    "authors": "Munkhbat, O., Lazarova, M.",
+    "title": "Synthetic Data Augmentation and Deep Learning for Colony Counting",
+    "venue": "MDPI Applied Sciences",
+    "year": "2026",
+    "status": "review",
+    "note": "",
+    "url": ""
+  }
+]

@@ -1,0 +1,43 @@
+{
+  "name": "Oyunbayar Munkhbat",
+  "github": "yukam-mm",
+  "email": "",
+  "linkedin": "",
+  "orcid": "",
+  "scholar": "",
+  "cv": "",
+  "heroWidget": "plate",
+  "repoCount": 6,
+
+  "headline": "I grew the cultures by hand. Now I build the models that explain them.",
+  "intro": "I'm Oyunbayar Munkhbat, and most people call me Yuka. I trained as a biotechnology engineer running Streptomyces fermentations, and I am now completing an MSc in Computer Science and Engineering at the Technical University of Sofia. My work is computational biotechnology: bioprocess modelling, machine learning for biological systems and computer vision for microbial analysis.",
+  "now": "From January 2027 I join Nora Martin's group at the Centre for Genomic Regulation in Barcelona as a research trainee. I am looking for a PhD or industrial PhD position to follow it.",
+
+  "interests": [
+    "Bioprocess modelling",
+    "Machine learning for biological systems",
+    "Computer vision for microbial analysis",
+    "Computational biology"
+  ],
+  "researchLede": "My questions start at the bench: how fast does this strain grow, when does it make product, how many colonies are on this plate. Each project below answers one of them with a model, and the same few methods keep returning.",
+  "projectsLede": "Finished work, work in progress and research I plan to do next. Open any project for its scientific background, method, figures and code.",
+  "pathLede": "Four years around fermenters and production labs came first. The computing grew out of data I had generated myself and could not analyse well enough by hand.",
+
+  "toolkit": [
+    { "group": "Bioprocess and wet lab", "items": ["Streptomyces fermentation", "Strain maintenance", "Media preparation", "Aseptic technique", "PCR and qPCR", "DNA and RNA extraction", "Protein expression and purification"] },
+    { "group": "Modelling", "items": ["Growth and product kinetics", "Ordinary differential equations", "Nonlinear regression", "Numerical methods", "Uncertainty reporting"] },
+    { "group": "Machine learning and vision", "items": ["PyTorch", "scikit-learn", "OpenCV", "scikit-image", "Object detection", "Synthetic data", "Domain adaptation"] },
+    { "group": "Engineering", "items": ["Python", "NumPy", "pandas", "SciPy", "Matplotlib", "Jupyter", "Git", "pytest", "Docker", "Linux", "Weights & Biases"] }
+  ],
+  "awards": [
+    "First place, Final Project Competition, ASTRA 2026, Romanian-American University, Bucharest",
+    "Rector's Award for Outstanding Academic Performance, University of Food Technologies, Plovdiv (2024)",
+    "Second place, Advanced Mathematics Competition, University of Food Technologies (2021)",
+    "Bulgarian Government Scholarship under the Bulgaria-Mongolia bilateral agreement (2019)"
+  ],
+  "languages": "Mongolian (native), English (IELTS C1), Bulgarian (B2)",
+
+  "contactHeadline": "Looking for a PhD student who has run the fermenter and written the model?",
+  "contactText": "I am open to PhD and industrial PhD positions and research traineeships from mid-2027, especially in digital bioprocess engineering, hybrid mechanistic and machine-learning models, and bioimage analysis.",
+  "footer": "Built as a static site. Content lives in Markdown and JSON."
+}
